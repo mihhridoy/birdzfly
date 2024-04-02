@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/birdzfly",
-      "destination": "https://birdzfly.com/birdzfly",
+      "destination": "https://www.birdzfly.com/american-robin/",
       "statusCode": 301
     }
   ]
