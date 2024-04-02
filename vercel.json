@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/blog/:path*/",
+      "source": "*/",
       "destination": "https://birdzfly.com/:path*/"
     }
   ]
