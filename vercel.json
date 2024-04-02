@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "*/",
-      "destination": "https://birdzfly.com/:path*/"
+      "destination": "https://birdzfly.com/birdz*/"
     }
   ]
 }
