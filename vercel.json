@@ -1,9 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "https://www.birdzfly.com/$1",
-    
+      "source": "/blog/:path*/",
+      "destination": "https://yourwordpressblog.com/:path*/"
     }
   ]
 }
