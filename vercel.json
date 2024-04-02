@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/view-source",
-      "destination": "https://www.birdzfly.com/birdz/", 
+      "destination": "https://www.birdzfly.com/", 
       "permanent": true
     }
   ]
