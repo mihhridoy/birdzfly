@@ -1,9 +1,9 @@
 {
-  "redirects": [
-    { 
-      "source": "https://birdzfly.vercel.app/",
-      "destination": "https://www.birdzfly.com/", 
-      "permanent": true
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.birdzfly.com/:splat",
+      "statusCode": 301
     }
   ]
 }
