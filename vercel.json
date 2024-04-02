@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://www.birdzfly.com/:splat",
+      "destination": "https://birdzfly.com/:splat",
       "statusCode": 301
     }
   ]
