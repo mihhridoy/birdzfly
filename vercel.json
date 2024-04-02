@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "*/",
+      "source": "*/birdzfly",
       "destination": "https://birdzfly.com/birdz*/"
     }
   ]
