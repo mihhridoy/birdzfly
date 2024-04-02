@@ -1,8 +1,9 @@
 {
   "rewrites": [
     {
-      "source": "*/birdzfly",
-      "destination": "https://birdzfly.com/birdz*/"
+      "source": "/birdzfly",
+      "destination": "https://birdzfly.com/birdzfly",
+      "statusCode": 301
     }
   ]
 }
